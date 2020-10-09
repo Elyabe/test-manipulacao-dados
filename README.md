@@ -14,11 +14,12 @@
 ## :dark_sunglasses: Executando o *notebook*
 
 1. Clone este projeto;
-    <pre> git clone **link** </pre>
+    <pre> git clone https://github.com/Elyabe/test-manipulacao-dados.git </pre>
 
 2. Abra o notebook com um dos seguintes recursos:
-    - Jupyter Notebook
-    - Jupyter Hub
+    - [Jupyter Notebook](https://jupyter.org/)
+    - [Jupyter Hub](https://jupyterhub.readthedocs.io/en/stable/)
+    - [Google Colab](https://colab.research.google.com/)
 
 3. Certifique-se de que o nome do arquivo com os dados e seu caminho estão corretos e execute as células.
 
