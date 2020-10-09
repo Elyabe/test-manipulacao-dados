@@ -5,13 +5,7 @@
 ## :book: Overview 
 *Notebook* que permite ler dados extraídos de um serviço do Google Analytics no formato JSON e manipulá-los a fim de responder questões básicas.
 
-### Sumário
-* [Executando os scripts](#dark_sunglasses-executando_os_scripts)
-* [Demonstração](#dark_sunglasses-Demonstração-da-aplicação)
-
-
-
-## :dark_sunglasses: Executando o *notebook*
+## :dark_sunglasses: Executando o notebook
 
 1. Clone este projeto;
     <pre> git clone https://github.com/Elyabe/test-manipulacao-dados.git </pre>
